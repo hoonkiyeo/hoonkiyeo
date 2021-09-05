@@ -1,4 +1,5 @@
 ### Hi there, I'm Hoonki Yeo (Kyle) 👋
+⚡ Personal motto: learn by doing
 
 <!--
 **hoonkiyeo/hoonkiyeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
