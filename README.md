@@ -1,9 +1,9 @@
 
 ### Hi there, I'm Hoonki Yeo (Kyle) 👋
 - ⚡ Personal motto: learn by doing
+- 📫 How to reach me: hky1721@gmail.com
 
-
-<!--
+<hky1721@gmail.com
 **hoonkiyeo/hoonkiyeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
