@@ -6,5 +6,6 @@
 - 👨🏽‍💻 Currently growing my skillset in [Machine Learning](https://github.com/hoonkiyeo/machine-learning) and [Algorithms](https://github.com/hoonkiyeo/baekjoon).
 
 
+[![Kyles's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonkiyeo&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
 
