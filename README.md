@@ -6,8 +6,8 @@
 - 👨🏽‍💻 Currently growing my skillset in [Machine Learning](https://github.com/hoonkiyeo/machine-learning) and [Algorithms](https://github.com/hoonkiyeo/baekjoon).
 ---
 
-```
-                             \\\\\\\
+```  
+                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
   -----------,-|           |C>   // )\\\\|
@@ -26,7 +26,6 @@ _____________,'      ,',_____|      |    | |
              | ,','  __/ |             /   |
 _____________|','   ///_/-------------/   |
               |===========,'
-
 ```
 
 ---
