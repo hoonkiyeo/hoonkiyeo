@@ -1,7 +1,7 @@
 
 [![Github](https://img.shields.io/github/followers/hoonkiyeo?label=Follow&style=social)](https://github.com/hoonkiyeo)
 
-<img src=https://user-images.githubusercontent.com/69660509/161468360-4e896f85-794e-4dad-a522-90bfc74ab064.gif alt="Profile Gif" height="300" width="400">
+<img src=https://user-images.githubusercontent.com/69660509/161468360-4e896f85-794e-4dad-a522-90bfc74ab064.gif alt="Profile Gif" height="350" width="470">
 
 ### Hi there, I'm Hoonki Yeo (Kyle) from South Korea👋
 ### I'm a Data Science undergraduate at UW-Madison
