@@ -26,8 +26,8 @@ Learn by doing
 
 ### I'm a Data Science undergraduate at UW-Madison
 - 📫 How to reach me: hky1721@gmail.com
-- 💡 I'm interested in Data Scientist, Data engineer and AI/ML
-- 👨🏽‍💻 Currently growing my skillset in Machine Learning and Algorithms
+- 💡 I'm interested in Data Scientist, Data engineer, and ML/AI enginner
+- 👨🏽‍💻 Currently growing my skillset in ML/AI and Algorithms
 - 💻 My recent projects are [Bitcoin Autotrading HTS](https://github.com/RookieDSers/BitcoinAutotrading) and [Fetal Health Prediction](https://github.com/hoonkiyeo/FetalHealth_Prediction)
 - 💻 Currently working on [2022 UEFA Champions League Prediction](https://github.com/TheDataBadgers/ChampionsLeaguePredictionApp)
 - ⚡️ Fun fact: I love to lift weights
