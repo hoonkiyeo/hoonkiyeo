@@ -32,6 +32,9 @@ Learn by doing
 - ⚡️ Fun fact: I love to lift weights
 ---
 
+### What I am reading
+- BECOMING A DATA HEAD
+
 ### Stats
 ![Kyle Yeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonkiyeo&show_icons=true&theme=tokyonight)
 
