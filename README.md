@@ -22,8 +22,7 @@ _____________|','   ///_/-------------/   |
 Learn by doing
 ```
 
-### Hi there, I'm Hoonki Yeo (Kyle) 👋
-
+### Hi there, I'm Hoonki Yeo (Kyle) from South Korea👋
 ### I'm a Data Science undergraduate at UW-Madison
 - 📫 How to reach me: hky1721@gmail.com
 - 💡 I'm interested in Data Scientist, Data engineer, and ML/AI enginner
