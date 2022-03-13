@@ -30,7 +30,7 @@ Learn by doing
 - 👨🏽‍💻 Currently growing my skillset in ML/AI and Algorithms
 - 💻 My recent projects are [Bitcoin Autotrading HTS](https://github.com/RookieDSers/BitcoinAutotrading) and [Fetal Health Prediction](https://github.com/hoonkiyeo/FetalHealth_Prediction)
 - 💻 Currently working on [2022 UEFA Champions League Prediction](https://github.com/TheDataBadgers/ChampionsLeaguePredictionApp)
-- ⚡️ Fun fact: I love to lift weight
+- ⚡️ Fun fact: I love to lift weights
 ---
 
 ### Stats
