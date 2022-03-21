@@ -25,7 +25,7 @@ Learn by doing
 ### Hi there, I'm Hoonki Yeo (Kyle) 👋
 
 ### I'm a Data Science undergraduate at UW-Madison
-- 📫 How to reach me: hky1721@gmail.com
+- 📫 How to reach me: hky1721@gmail.com or yeo9@wisc.edu
 - 💡 I'm interested in Data Scientist, Data engineer, and ML/AI enginner
 - 👨🏽‍💻 Currently growing my skillset in ML/AI and Algorithms
 - 💻 My recent projects are [Bitcoin Autotrading HTS](https://github.com/RookieDSers/BitcoinAutotrading) and [Fetal Health Prediction](https://github.com/hoonkiyeo/FetalHealth_Prediction)
