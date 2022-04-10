@@ -15,10 +15,10 @@
 
 ### 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/69660509/161469084-22c18755-7626-4ef2-9eba-d0560dfde85a.png" alt="R" height="40" style="vertical-align:top; margin:4px">
-<img src=https://user-images.githubusercontent.com/69660509/161469299-a2b50517-3b26-4ff8-91a5-bd43fe7eea70.png alt="Julia" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="30" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/69660509/161469084-22c18755-7626-4ef2-9eba-d0560dfde85a.png" alt="R" height="30" style="vertical-align:top; margin:4px">
+<img src=https://user-images.githubusercontent.com/69660509/161469299-a2b50517-3b26-4ff8-91a5-bd43fe7eea70.png alt="Julia" height="30" style="vertical-align:top; margin:4px">
 
 
 ### ✉️ Find me on:
