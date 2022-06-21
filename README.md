@@ -6,10 +6,8 @@
 ### Hi there, I'm Hoonki Yeo (Kyle) from South Korea👋
 ### I'm a Data Science undergraduate at UW-Madison
 - 📫 How to reach me: hky1721@gmail.com
-- 💡 I'm interested in Data Scientist, Data engineer, and ML/AI enginner
-- 👨🏽‍💻 Currently growing my skillset in ML/AI and Algorithms
-- 💻 My recent projects are [Bitcoin Autotrading HTS](https://github.com/RookieDSers/BitcoinAutotrading) and [Fetal Health Prediction](https://github.com/hoonkiyeo/FetalHealth_Prediction)
-- 💻 Currently working on [2022 UEFA Champions League Prediction](https://github.com/TheDataBadgers/ChampionsLeaguePredictionApp)
+- 💡 I'm interested in Data Scientist and ML enginner
+- 👨🏽‍💻 Currently growing my skillset in ML Algorithms
 - ⚡️ Fun fact: I love to lift weights
 ---
 
@@ -22,8 +20,8 @@
 
 
 ### ✉️ Find me on:
-[<img src=https://user-images.githubusercontent.com/69660509/161469728-5b322b1c-dead-45cc-ac79-b4d3bf8b1f76.png alt="Julia" height="40" style="vertical-align:top; margin:4px">](https://github.com/hoonkiyeo)
-
+[<img src=https://user-images.githubusercontent.com/69660509/161469728-5b322b1c-dead-45cc-ac79-b4d3bf8b1f76.png alt="github" height="45" style="vertical-align:top; margin:4px">](https://github.com/hoonkiyeo)
+[<img src="https://user-images.githubusercontent.com/69660509/174795199-0b55a224-308a-4e01-82b9-46ea6665a4ba.png" alt="Linkedin" height="45" style="vertical-align:top; margin:4px">](https://www.linkedin.com/in/hoonki-yeo-4a9225208/)
 ### ⭐ ️My Github Stats
 ![Kyle Yeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonkiyeo&show_icons=true&theme=tokyonight)
 
