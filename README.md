@@ -18,6 +18,7 @@
 <img src="https://user-images.githubusercontent.com/69660509/184396687-1eab19fb-717d-4452-9496-544f8be2394b.png" alt="Python" height="45" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/69660509/184397938-0c9e18cb-da23-4384-aafc-50b3840cbf9a.png" alt="Slack" height="45" style="vertical-align:top; margin:4px">
 
+-123
 
 ### 📨 More about me:
 [<img src="https://user-images.githubusercontent.com/69660509/174795199-0b55a224-308a-4e01-82b9-46ea6665a4ba.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px">](https://www.linkedin.com/in/hoonki-yeo-4a9225208/)
