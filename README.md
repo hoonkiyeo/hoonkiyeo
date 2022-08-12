@@ -12,15 +12,15 @@
 
 ### 🛠️ Languages and Tools:
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="45" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="45" style="horizontal-align:top; margin:4px">
 
-<img src="https://user-images.githubusercontent.com/69660509/184398620-1cc111a4-61f3-4fd3-ae4d-4c24dc35be7a.png" alt="SQL" height="45" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/69660509/184398620-1cc111a4-61f3-4fd3-ae4d-4c24dc35be7a.png" alt="SQL" height="45" style="horizontal-align:top; margin:4px">
 
-<img src="https://user-images.githubusercontent.com/69660509/184401997-ccb0da12-649a-445d-b8c2-4b56aaa92d21.png" alt="PyTorch" height="45" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/69660509/184401997-ccb0da12-649a-445d-b8c2-4b56aaa92d21.png" alt="PyTorch" height="45" style="horizontal-align:top; margin:4px">
 
-<img src="https://user-images.githubusercontent.com/69660509/184396687-1eab19fb-717d-4452-9496-544f8be2394b.png" alt="Python" height="45" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/69660509/184396687-1eab19fb-717d-4452-9496-544f8be2394b.png" alt="Python" height="45" style="horizontal-align:top; margin:4px">
 
-<img src="https://user-images.githubusercontent.com/69660509/184397938-0c9e18cb-da23-4384-aafc-50b3840cbf9a.png" alt="Slack" height="45" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/69660509/184397938-0c9e18cb-da23-4384-aafc-50b3840cbf9a.png" alt="Slack" height="45" style="horizontal-align:top; margin:4px">
 
 ### 📨 More about me:
 [<img src="https://user-images.githubusercontent.com/69660509/174795199-0b55a224-308a-4e01-82b9-46ea6665a4ba.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px">](https://www.linkedin.com/in/hoonki-yeo-4a9225208/)
