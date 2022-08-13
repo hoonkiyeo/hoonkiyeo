@@ -19,9 +19,14 @@
 
 <img src="https://user-images.githubusercontent.com/69660509/184401997-ccb0da12-649a-445d-b8c2-4b56aaa92d21.png" alt="PyTorch" height="45" style="vertical-align:top; margin:4px">
 
+<img src="https://user-images.githubusercontent.com/69660509/184468582-72ce0671-a677-445d-b857-653f67e9b2c3.png" alt="Git" height="45" style="vertical-align:top; margin:4px">
+
+<img src="https://user-images.githubusercontent.com/69660509/184468712-d4787bcc-881a-4f96-bf44-f0d5ff580478.svg" alt="R" height="45" style="vertical-align:top; margin:4px">
+
 <img src="https://user-images.githubusercontent.com/69660509/184396687-1eab19fb-717d-4452-9496-544f8be2394b.png" alt="Python" height="45" style="vertical-align:top; margin:4px">
 
 <img src="https://user-images.githubusercontent.com/69660509/184397938-0c9e18cb-da23-4384-aafc-50b3840cbf9a.png" alt="Slack" height="45" style="vertical-align:top; margin:4px">
+
 </p>
 
 ### 📨 More about me:
