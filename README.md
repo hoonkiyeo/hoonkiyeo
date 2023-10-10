@@ -13,7 +13,7 @@
 ### 🛠️ Skills:
 <p align="left">
 
-| Type | Skills |
+| Type | Tool |
 | --- | --- |
 | Software / Programming | Python \| SQL \| R \| Keras \| Tensorflow |
 | Collaboration | Notion \| Slack |
